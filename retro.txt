@@ -1,0 +1,7 @@
+Feedbacks da retrospectiva:
+
+- O time colaborou bem durante a sprint.
+- Houve atraso na liberação do ambiente de testes.
+- A comunicação no Slack ajudou muito.
+- Precisamos melhorar a definição de prioridades.
+- As reuniões de daily foram produtivas.

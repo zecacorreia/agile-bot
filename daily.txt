@@ -1,0 +1,5 @@
+Registros de Dailys simuladas:
+
+Will: Ontem finalizei o cadastro de usuários. Hoje vou começar o login. Sem impedimentos.
+Miguel: Ontem configurei o banco de dados. Hoje vou trabalhar no upload de arquivos. Estou aguardando o time de infraestrutura liberar o servidor.
+Zeca: Ontem revisei o código do painel de administração. Hoje continuo com ajustes no frontend. Impedimento: falta de mock da API.

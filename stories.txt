@@ -1,0 +1,7 @@
+Histórias de usuário:
+
+1. Como administrador, quero cadastrar novos usuários, para que eles possam acessar o sistema.
+2. Como usuário, quero fazer login com segurança, para proteger meus dados.
+3. Como usuário, quero enviar documentos, para armazenar arquivos importantes.
+4. Como administrador, quero gerar relatórios em PDF, para compartilhar com gestores.
+5. Como usuário, quero receber notificações por email, para acompanhar atualizações.

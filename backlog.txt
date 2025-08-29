@@ -1,0 +1,8 @@
+Funcionalidades do sistema:
+
+1. Cadastro de usuários
+2. Login com autenticação JWT
+3. Upload de documentos
+4. Painel de administração
+5. Exportação de relatórios em PDF
+6. Notificações por email
